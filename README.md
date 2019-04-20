@@ -10,6 +10,40 @@
 
 ## 第二堂課:Data Visulization+ PandasI
 
+```
+Python Data Analytics by Fabio Nelli (Apress, 2015)
+https://github.com/Apress/python-data-analytics
+
+Python Data Analytics (第二版)by Fabio Nelli (Apress, 2018)
+https://github.com/meccanismocomplesso/python_data_analytics
+```
+```
+Python資料分析 第二版
+Python for Data Analysis, 2nd Edition
+作者： Wes McKinney  
+譯者： 張靜雯
+歐萊禮出版社  
+出版日期：2018/10/03
+
+https://github.com/wesm/pydata-book
+
+第一章 寫在前面
+第二章 Python基礎、IPython 和Jupyter notebook
+第三章 內建資料結構、函式和檔案
+第四章 NumPy基礎：陣列和向量化計算
+第五章 使用pandas
+第六章 資料載入、儲存和檔案格式
+第七章 資料整理和前處理
+第八章 資料處理：連接、合併和重塑
+第九章 繪圖與視覺化
+第十章 資料聚合和分組
+第十一章 時間序列
+第十二章 pandas進階
+第十三章 Python中的建模函式庫
+第十四章 資料分析範例
+附錄A 深入NumPy
+附錄B 關於IPython系統
+```
 ## 第三堂課:Pandas II
 
 觀摩學習
@@ -96,9 +130,23 @@ https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition
 https://github.com/PacktPublishing/Mastering-Machine-Learning-with-scikit-learn-Second-Edition
 ```
 ```
-房屋價格資料
+machine learning 下的 Linear Regression 實作(使用python)
+https://medium.com/@jacky308082/machine-learning-%E4%B8%8B%E7%9A%84-linear-regression-%E5%AF%A6%E4%BD%9C-%E4%BD%BF%E7%94%A8python-7e1dd03a4d46
 ```
 
+```
+The Elements of Statistical Learning 
+Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+史丹佛大學統計系教授
+可以下載pdf
+https://web.stanford.edu/~hastie/ElemStatLearn/
+```
+```
+房屋價格資料
+```
+```
+https://realpython.com/linear-regression-in-python/
+```
 ### 資安應用
 ```
 Machine learniing ad malware classfication
