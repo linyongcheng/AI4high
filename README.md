@@ -12,7 +12,7 @@
 
 ## 第四堂課:MLP與Mnist手寫數字辨識專題
 ```
-Deep Learning with Keras CH
+Deep Learning with Keras CH 1
 ```
 
 ## 第五堂課:Machine Learning
