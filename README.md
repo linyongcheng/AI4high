@@ -17,6 +17,11 @@ Deep Learning with Keras CH 1
 
 ## 第五堂課:Machine Learning
 
+
+```
+Machine learniing amd malware classfication
+https://www.kaggle.com/c/microsoft-malware-prediction
+```
 ## 第六堂課:
 
 ## 第七堂課:CNN
