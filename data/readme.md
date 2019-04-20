@@ -1,6 +1,11 @@
 # 此目錄放置常用的作業所需之data
 
 
+```
+要在google colab讀取Github上的資料請參閱底下說明
+
+讀取資料集的方法.md
+```
 ## Mastering pandas教科書所使用的資料集
 ```
 Mastering pandas
