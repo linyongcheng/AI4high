@@ -59,7 +59,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html#sk
 ```
 ### 資安應用
 ```
-Machine learniing amd malware classfication
+Machine learniing ad malware classfication
 https://www.kaggle.com/c/microsoft-malware-prediction
 ```
 ## 第六堂課:
