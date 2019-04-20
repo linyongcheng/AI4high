@@ -186,3 +186,10 @@ Python Data Analytics
 https://github.com/meccanismocomplesso/python_data_analytics
 Appendix B: Open Data Sources
 ```
+
+```
+Kaggle平臺簡介
+Titanic罹難乘客預測
+IMDB影評得分估計 
+MNIST手寫體數字圖片識別
+```
