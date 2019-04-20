@@ -159,6 +159,20 @@ https://www.kaggle.com/c/microsoft-malware-prediction
 
 # Deep Learning: 深度學習
 
+```
+Deep Learning with Python
+作者： Chollet, Francois[keras作者]
+Manning Pubns Co  2017
+
+https://www.manning.com/books/deep-learning-with-python
+Python 深度學習 (Deep Learning with Python) Python深度学习
+[美] 弗朗索瓦·肖萊
+人民郵電出版社
+出版日期:2018-08-01
+
+https://github.com/fchollet/deep-learning-with-python-notebooks
+```
+
 ## 第七堂課:CNN
 
 ## 第八堂課:GAN
