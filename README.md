@@ -17,7 +17,7 @@ https://github.com/meccanismocomplesso/python_data_analytics
 ```
 Python資料分析 第二版
 Python for Data Analysis, 2nd Edition
-作者： Wes McKinney  
+作者： Wes McKinney[pandas作者]
 譯者： 張靜雯
 歐萊禮出版社  
 出版日期：2018/10/03
