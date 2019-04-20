@@ -10,6 +10,16 @@
 
 ## 第三堂課:Pandas II
 
+觀摩學習
+```
+Lab 3. 建立自動化的PM2.5監視系統
+https://colab.research.google.com/drive/1iUgpXzyZs7Ap0uPqYH3VIZbNILggKcLC#scrollTo=g02tvz9RTF5T
+```
+```
+Music Unmixing using MUSDB
+https://colab.research.google.com/drive/1Zo6iSPIi6SjOAL7wg8yzVWkS9mjLgjI-
+```
+
 ## 第四堂課:MLP與Mnist手寫數字辨識專題
 ```
 Deep Learning with Keras CH 1
@@ -40,8 +50,10 @@ https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html#sk
 ### 預測與回歸Regression
 
 ```
-
-
+簡單線性回歸
+```
+```
+房屋價格資料
 ```
 ### 資安應用
 ```
