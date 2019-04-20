@@ -6,10 +6,7 @@
 
 需先修習過python程式設計
 ```
-## 第一堂課: NUMPY
-
-## 第二堂課:Data Visulization+ PandasI
-
+# 資料科學
 ```
 Python Data Analytics by Fabio Nelli (Apress, 2015)
 https://github.com/Apress/python-data-analytics
@@ -44,6 +41,11 @@ https://github.com/wesm/pydata-book
 附錄A 深入NumPy
 附錄B 關於IPython系統
 ```
+## 第一堂課: NUMPY
+
+## 第二堂課:Data Visulization+ PandasI
+
+
 ## 第三堂課:Pandas II
 
 觀摩學習
@@ -60,6 +62,8 @@ https://colab.research.google.com/drive/1Zo6iSPIi6SjOAL7wg8yzVWkS9mjLgjI-
 ```
 Deep Learning with Keras CH 1
 ```
+
+# Machine Learning: 機器學習
 
 ## 第五堂課:Machine Learning:I分類演算法
 
@@ -152,6 +156,8 @@ https://realpython.com/linear-regression-in-python/
 Machine learniing ad malware classfication
 https://www.kaggle.com/c/microsoft-malware-prediction
 ```
+
+# Deep Learning: 深度學習
 
 ## 第七堂課:CNN
 
