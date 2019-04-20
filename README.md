@@ -17,7 +17,33 @@ Deep Learning with Keras CH 1
 
 ## 第五堂課:Machine Learning
 
+### scikit-learn套件
 
+```
+https://scikit-learn.org/stable/auto_examples/index.html#
+```
+
+### Supervised learning之分類演算法
+```
+
+```
+
+### UnSupervised learning之集群分析Clustering Analysis
+
+```
+sklearn.cluster.KMeans
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html#sklearn.cluster.KMeans
+
+原始碼:"https://github.com/scikit-learn/scikit-learn/blob/7b136e9/sklearn/cluster/k_means_.py
+```
+
+### 預測與回歸Regression
+
+```
+
+
+```
+### 資安應用
 ```
 Machine learniing amd malware classfication
 https://www.kaggle.com/c/microsoft-malware-prediction
@@ -27,3 +53,13 @@ https://www.kaggle.com/c/microsoft-malware-prediction
 ## 第七堂課:CNN
 
 ## 第八堂課:GAN
+
+
+### 資料集
+
+```
+Python Data Analytics
+
+https://github.com/meccanismocomplesso/python_data_analytics
+Appendix B: Open Data Sources
+```
