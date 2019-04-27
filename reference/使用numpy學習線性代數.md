@@ -1,10 +1,9 @@
-#
-```
-https://docs.scipy.org/doc/numpy/reference/routines.linalg.html
-```
-
 # numpy實作手冊:使用numpy學習線性代數
 
+## 課程學習目標
+```
+```
+### 建議閱讀書目
 ```
 線性代數(二版) Linear Algebra with Applications, 7e
 作者： W. Keith Nicholson  
@@ -25,6 +24,12 @@ https://docs.scipy.org/doc/numpy/reference/routines.linalg.html
 第十章 內積空間
 第十一章 正準形
 ```
+### numpy線上說明
+```
+https://docs.scipy.org/doc/numpy/reference/routines.linalg.html
+```
+
+# 實作課程
 ```
 完成底下
 ```
