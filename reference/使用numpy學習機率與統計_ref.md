@@ -1,7 +1,70 @@
 #
 
-# 參考書
 ```
+Python for Probability, Statistics, and Machine Learning
+https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning
+```
+
+```
+DSE210x-Statistics-and-Probability-in-Data-Science-using-Python
+https://github.com/VSerpak/DSE210x-Statistics-and-Probability-in-Data-Science-using-Python
+```
+### 葉丙成的機率驚豔
+```
+葉丙成的機率驚豔：當數學遇上文學，學生考不好也會笑著離開
+作者： 葉丙成, 賴以威  
+究竟出版社 
+出版日期：2014/02/25
+
+初階
+投手的兩難
+現在，很想見你
+有機農作物
+熱愛冒險，才是真男人
+近似完美句
+Face on Fire！
+薛丁格的貓咪日記
+伊伊港載貨
+生死一線間
+少年郎的富翁漂流
+角度，很重要
+
+在進入下一個階段之前……
+機率的意義
+隨機變數及其函數
+各種機率分布
+
+中階
+真實冒險
+一戳就是快樂
+阿母，不要摔我手機！
+幾點去排隊？
+巧克力拉霸
+來顆晶體吧！
+BJ4 online
+V城追殺錄
+Ramdomo
+
+高階
+大熊的高斯人生
+格蘭傑的遺囑
+男大學生的日常
+在街角等待的 100%女孩
+良不良，有關係
+艾波寧的結局
+
+附錄：葉丙成老師「機率與統計」課程期中、期末考題
+期中考題
+期末考題──瓊博的奇幻旅程
+```
+### 機率論
+```
+機率論(修訂版)(Ross/A First Course in Probability 8/e )
+作者： Sheldon Ross  
+譯者： 朱蘊(金廣)
+華泰文化出版社
+出版日期：2012/07/03
+
 第1章 組合分析
 第2章 機率之公設
 第3章 條件機率與獨立性
