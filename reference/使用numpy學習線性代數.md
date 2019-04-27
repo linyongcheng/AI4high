@@ -6,6 +6,26 @@ https://docs.scipy.org/doc/numpy/reference/routines.linalg.html
 # numpy實作手冊:使用numpy學習線性代數
 
 ```
+線性代數(二版) Linear Algebra with Applications, 7e
+作者： W. Keith Nicholson  
+譯者： 黃孟槺
+東華出版社  
+出版日期：2016/07/01
+```
+```
+第一章 線性方程組
+第二章 矩陣代數
+第三章 行列式與對角化
+第四章 向量幾何
+第五章 向量空間 Rn
+第六章 向量空間
+第七章 線性變換
+第八章 正交
+第九章 基底的改變
+第十章 內積空間
+第十一章 正準形
+```
+```
 完成底下
 ```
 ### dot運算
