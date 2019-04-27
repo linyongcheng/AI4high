@@ -29,6 +29,75 @@ np.dot(a, b)[2,3,2,1,2,2]
 sum(a[2,3,2,:] * b[1,2,:,2])
 ```
 
+```
+https://blog.csdn.net/u012421852/article/details/80042383
+```
+
+
+```
+#det(ndarray)	計算方陣的矩陣列式
+a = np.array([[1,6,7],
+              [2,5,3],
+              [3,4,1]])
+ret = np.linalg.det(a) #-14
+
+eig計算方陣的本征值和本征向量
+a = np.array([[1,2,3],
+              [6,5,4],
+              [7,6,5]])
+ret = np.linalg.eig(a) #本征值,本征向量
+print(ret[0]) #[  1.27284161e+01  -1.72841615e+00   1.90757877e-16]
+print(ret[1]) #[[ 0.29245036  0.78800111  0.40824829]
+              # [ 0.60875015 -0.45826232 -0.81649658]
+              # [ 0.73749308 -0.41115678  0.40824829]]
+
+inv 計算方陣的逆
+a = np.array([[1,2,3],
+              [4,5,6],
+              [7,8,9]])
+ai = np.linalg.inv(a)
+print(ai)
+print(ai.shape)
+
+
+pinv 計算方陣的Moore-Penrose偽逆
+api = np.linalg.pinv(a)
+print(api)
+print(api.shape)
+
+
+qr計算qr分解 
+a = np.array([[1,2,3],
+              [4,5,6],
+              [7,8,9]])
+aqr = np.linalg.qr(a)  
+print(aqr)
+
+
+svd計算奇異值分解svd
+asvd = np.linalg.svd(a)
+print(asvd)
+```
+### solve解線性方程組Ax = b，其中A為方陣 
+```
+a = np.array([[1,2,3],
+              [4,5,6],
+              [7,8,9]])
+b = np.array([0,2,6])
+ret = np.linalg.solve(a,b)
+print(ret)
+```
+### lstsq計算Ax=b的最小二乘解 
+```
+a = np.array([[1,2,3],
+              [4,5,6],
+              [7,8,9]])
+b = np.array([0,2,6])
+
+ret = np.linalg.lstsq(a,b)
+print('lstsq:\n',ret)
+```
+
 ### 矩陣鏈乘積Matrix chain multiplication
 ```
 https://en.wikipedia.org/wiki/Matrix_chain_multiplication
