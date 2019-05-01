@@ -7,13 +7,7 @@
 需先修習過python程式設計
 ```
 # 1.資料科學
-```
-Python Data Analytics by Fabio Nelli (Apress, 2015)
-https://github.com/Apress/python-data-analytics
 
-Python Data Analytics (第二版)by Fabio Nelli (Apress, 2018)
-https://github.com/meccanismocomplesso/python_data_analytics
-```
 ```
 Python資料分析 第二版
 Python for Data Analysis, 2nd Edition
@@ -24,32 +18,19 @@ Python for Data Analysis, 2nd Edition
 
 https://github.com/wesm/pydata-book
 dataset目錄底下有常用的資料集
-
-第一章 寫在前面
-第二章 Python基礎、IPython 和Jupyter notebook
-第三章 內建資料結構、函式和檔案
-第四章 NumPy基礎：陣列和向量化計算
-
-第五章 使用pandas
-第六章 資料載入、儲存和檔案格式
-第七章 資料整理和前處理
-第八章 資料處理：連接、合併和重塑
-第九章 繪圖與視覺化
-第十章 資料聚合和分組
-第十一章 時間序列
-第十二章 pandas進階
-第十三章 Python中的建模函式庫
-
-第十四章 資料分析範例
-
-附錄A 深入NumPy  APPENDIX A: Advanced NumPy[不錯]
-
-附錄B 關於IPython系統
 ```
-## 第一堂課: NUMPY
+
+```
+Python Data Analytics by Fabio Nelli (Apress, 2015)
+https://github.com/Apress/python-data-analytics
+
+Python Data Analytics (第二版)by Fabio Nelli (Apress, 2018)
+https://github.com/meccanismocomplesso/python_data_analytics
+```
+
+## 第一堂課:NUMPY
 
 ## 第二堂課:Data Visulization+ PandasI
-
 
 ## 第三堂課:Pandas II
 
@@ -69,32 +50,33 @@ Deep Learning with Keras CH 1
 ```
 
 # 2.Machine Learning: 機器學習
-
-## 第五堂課:Machine Learning:I分類演算法
-
 ###  參考書
 ```
 Python Machine Learning - Second Edition
 Sebastian Raschka, Vahid Mirjalili
 September 2017
-
-Python機器學習(第二版)
-Python Machine Learning – Second Edition
-作者： Sebastian Raschka, Vahid Mirjalili  
-譯者： 劉立民, 吳建華
-博碩 出版社
-出版日期：2018/08/30
-
+Python機器學習(第二版)  譯者： 劉立民, 吳建華  博碩出版社 出版日期：2018/08/30
 https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition
 ```
 
-### scikit-learn套件
 
+### scikit-learn套件
 ```
 https://scikit-learn.org/stable/auto_examples/index.html#
 ```
+```
 
-### Supervised learning之分類演算法
+```
+```
+Mastering Machine Learning with scikit-learn - Second Edition
+scikit-learn機器學習（第2版）
+作者： （美）加文·海克  人民郵電出版社  出版日期：2019/02/01 
+https://github.com/PacktPublishing/Mastering-Machine-Learning-with-scikit-learn-Second-Edition
+```
+
+## 第五堂課:Machine Learning:I分類演算法
+
+## Supervised learning之分類演算法
 ```
 Nearest Neighbors Classification
 https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py
@@ -103,7 +85,6 @@ https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html
 範例:Python機器學習(第二版) 
 第02章：訓練簡單的機器學習的分類演算法[很好~自己時做一個演算法]
 第03章：使用 scikit-learn 巡覽機器學習分類器
-https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition
 ```
 ```
 資料集data Set: iris::https://zh.wikipedia.org/wiki/安德森鳶尾花卉數據集
@@ -132,9 +113,6 @@ https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition
 簡單線性回歸
 
 範例:scikit-learn機器學習（第2版）
-作者： （美）加文·海克
-人民郵電出版社
-出版日期：2019/02/01 
 第2章簡單線性回歸
 https://github.com/PacktPublishing/Mastering-Machine-Learning-with-scikit-learn-Second-Edition
 ```
@@ -168,13 +146,10 @@ https://www.kaggle.com/c/microsoft-malware-prediction
 Deep Learning with Python
 作者： Chollet, Francois[keras作者]
 Manning Pubns Co  2017
+Python 深度學習 (Deep Learning with Python) Python深度学习
+人民郵電出版社 出版日期:2018-08-01
 
 https://www.manning.com/books/deep-learning-with-python
-Python 深度學習 (Deep Learning with Python) Python深度学习
-[美] 弗朗索瓦·肖萊
-人民郵電出版社
-出版日期:2018-08-01
-
 https://github.com/fchollet/deep-learning-with-python-notebooks
 ```
 
