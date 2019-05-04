@@ -28,9 +28,22 @@ https://github.com/meccanismocomplesso/python_data_analytics
 
 ## 第一堂課:NUMPY
 
-## 第二堂課:Data Visulization+ PandasI
+## 第二堂課:Data Visulization資料視覺化
+```
+課程目標:
+資料視覺化
+matplotlib資料視覺化
+I.matplotlib資料視覺化基本演練
+plot()
+subplot()
+axes()
 
-## 第三堂課:Pandas II
+II應用
+機率圖型的繪製
+統計圖的繪製
+實戰資料產生與資料視覺化
+```
+## 第三堂課:Pandas 
 
 觀摩學習
 ```
