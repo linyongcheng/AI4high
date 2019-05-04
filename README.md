@@ -85,44 +85,10 @@ scikit-learn機器學習（第2版）
 https://github.com/PacktPublishing/Mastering-Machine-Learning-with-scikit-learn-Second-Edition
 ```
 
-## 第五堂課:Machine Learning:I分類演算法
-
-## Supervised learning之分類演算法
-```
-Nearest Neighbors Classification
-https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py
-```
-```
-範例:Python機器學習(第二版) 
-第02章：訓練簡單的機器學習的分類演算法[很好~自己時做一個演算法]
-第03章：使用 scikit-learn 巡覽機器學習分類器
-```
-```
-資料集data Set: iris::https://zh.wikipedia.org/wiki/安德森鳶尾花卉數據集
-```
-
-
-## 第六堂課:Machine Learning:II
-
-### UnSupervised learning之集群分析Clustering Analysis
-
-```
-sklearn.cluster.KMeans
-https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html#sklearn.cluster.KMeans
-
-原始碼:"https://github.com/scikit-learn/scikit-learn/blob/7b136e9/sklearn/cluster/k_means_.py
-```
-
-```
-範例:Python機器學習(第二版) 第11章：使用未標記的數據 ─ 集群分析
-https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition
-```
-
-### 預測與回歸Regression
+## 第五堂課:Machine Learning:I預測與回歸Regression
 
 ```
 簡單線性回歸
-
 範例:scikit-learn機器學習（第2版）
 第2章簡單線性回歸
 https://github.com/PacktPublishing/Mastering-Machine-Learning-with-scikit-learn-Second-Edition
@@ -145,6 +111,69 @@ https://web.stanford.edu/~hastie/ElemStatLearn/
 ```
 https://realpython.com/linear-regression-in-python/
 ```
+
+## 第六堂課: Machine Learning:II分類演算法
+課程目標
+```
+classification problem:
+
+binary classification vs Multiple classification 
+
+Security  as a classification problem
+https://www.nspw.org/2009/proceedings/2009/nspw2009-tuerpe.pdf
+
+Big data classification
+```
+
+```
+classification algorithm
+
+```
+
+### 常用的資料集data Set
+```
+iris::https://zh.wikipedia.org/wiki/安德森鳶尾花卉數據集
+```
+### scikit內建的資料集
+```
+
+```
+### Keras內建的資料集
+```
+
+```
+
+### 本課程演練的分類演算法
+
+Supervised learning之分類演算法
+```
+Nearest Neighbors Classification
+https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py
+```
+```
+範例:Python機器學習(第二版) 
+第02章：訓練簡單的機器學習的分類演算法[很好~自己時做一個演算法]
+第03章：使用 scikit-learn 巡覽機器學習分類器
+```
+
+
+## 第七堂課:Machine Learning:III
+
+### UnSupervised learning之集群分析Clustering Analysis
+
+```
+sklearn.cluster.KMeans
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html#sklearn.cluster.KMeans
+
+原始碼:"https://github.com/scikit-learn/scikit-learn/blob/7b136e9/sklearn/cluster/k_means_.py
+```
+
+```
+範例:Python機器學習(第二版) 第11章：使用未標記的數據 ─ 集群分析
+https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition
+```
+
+
 ### 資安應用
 ```
 Machine learniing ad malware classfication
