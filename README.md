@@ -164,10 +164,16 @@ Python Data Analytics
 https://github.com/meccanismocomplesso/python_data_analytics
 Appendix B: Open Data Sources
 ```
-
+### Kaggle平臺
 ```
 Kaggle平臺簡介
 Titanic罹難乘客預測
 IMDB影評得分估計 
 MNIST手寫體數字圖片識別
+```
+### Google Colab
+
+```
+Colab基本操作筆記
+https://mattwang44.github.io/en/articles/colab/
 ```
