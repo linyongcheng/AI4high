@@ -6,6 +6,12 @@
 
 需先修習過python程式設計
 ```
+
+### 台大李宏毅教授
+
+```
+http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html
+```
 # 1.資料科學
 
 ```
@@ -218,4 +224,11 @@ MNIST手寫體數字圖片識別
 ```
 Colab基本操作筆記
 https://mattwang44.github.io/en/articles/colab/
+```
+
+### AI and Security
+
+```
+
+
 ```
