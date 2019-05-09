@@ -229,6 +229,7 @@ https://mattwang44.github.io/en/articles/colab/
 ### AI and Security
 
 ```
+spam detection:simple RNN and LTSM
 
-
+https://www.kaggle.com/kentata/rnn-for-spam-detection
 ```
