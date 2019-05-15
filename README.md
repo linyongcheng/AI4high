@@ -233,3 +233,31 @@ spam detection:simple RNN and LTSM
 
 https://www.kaggle.com/kentata/rnn-for-spam-detection
 ```
+
+##
+```
+How to run an .ipynb Jupyter Notebook from terminal?
+https://stackoverflow.com/questions/35545402/how-to-run-an-ipynb-jupyter-notebook-from-terminal
+
+
+From the command line you can convert a notebook to python with this command:
+
+ipython nbconvert --to python <YourNotebook>.ipynb
+You may have to install the python mistune package:
+
+sudo pip install mistune
+
+```
+
+```
+Install runipy library that allows running your code on terminal
+
+pip install runipy
+After just compiler your code:
+
+runipy <YourNotebookName>.ipynb
+```
+
+```
+https://stackoverflow.com/questions/53254703/import-its-own-ipynb-files-on-google-colab
+```
