@@ -261,3 +261,14 @@ runipy <YourNotebookName>.ipynb
 ```
 https://stackoverflow.com/questions/53254703/import-its-own-ipynb-files-on-google-colab
 ```
+
+```
+清華大學計科所
+人工智慧
+http://www.nhcue.edu.tw/~jinnliu/teaching/AI17/AI17.htm
+
+```
+
+```
+https://en.wikipedia.org/wiki/Automatic_differentiation
+```
